@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @anmolbaunthiyal
-- 👀 I’m interested in Machine Learning, Django,AI
-- 🌱 I’m currently learning Django
+
