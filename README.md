@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-:wave: <b>Hi I'm Anmol Baunthiyal</b> 
+:wave: <b>Hi I am Anmol Baunthiyal</b> 
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
